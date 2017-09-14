@@ -1,0 +1,31 @@
+.stadButton {
+	background-color: #4286f4;
+}
+#buttons {
+
+}
+a {
+	color:  #000000;
+
+}
+nav {
+	background-color: #4286f4;
+}
+h1 {
+	background-color: #fffbd1;
+}
+body {
+	text-align: center;
+	position: relative;
+} 
+
+button {
+	display: inline-block;	 
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #6298fc;
+}
+#buttonContainer {
+
+}
